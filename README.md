@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=17; download=0; total=0; expire=999999999999999
-#profile-title: ISM 444 ⛓️‍💥
+#profile-title: ISM 444 
 #profile-update-interval: 1
 #subscription-update-interval: 1
 #announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
