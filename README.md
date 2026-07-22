@@ -33,9 +33,7 @@ vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@bulg.freeinternat.com:443?flow=xtls
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@lat.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lat.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F?serverDescription=0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg=
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@sp.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sp.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F?serverDescription=0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg=
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@fra.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fra.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?serverDescription=0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg=
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@tur.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tur.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%3FserverDescription%3D0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg%3D%0A?serverDescription=0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg=
-
-
+vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@tur.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tur.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90?serverDescription=0J3QldCiINCX0JDQk9Cb0KPQqNCa0Jg=
 
 
 
