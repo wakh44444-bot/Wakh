@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=2; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=9; download=0; total=0; expire=999999999999999
 #profile-title: ISM 444 
 #profile-update-interval: 1
 #subscription-update-interval: 1
