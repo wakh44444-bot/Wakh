@@ -2,7 +2,7 @@
 #profile-title: ISM 444 
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
+#announce:base64:0J3QsNC20LzQuNGC0LUgwqvwn5SEwrssINC30LDRgtC10Lwgwqvij7HvuI/CuyDQuCDQstGL0LHQtdGA0LjRgtC1INGB0LXRgNCy0LXRgCDRgSDQvdCw0LjQvNC10L3RjNGI0LjQvCDQv9C40L3Qs9C+0LwgKNC80YEpINC00LvRjyDQvtC/0YLQuNC80LDQu9GM0L3QvtC5INGB0LrQvtGA0L7RgdGC0LguCgrQlNC70Y8g0YHRgtCw0LHQuNC70YzQvdC+0Lkg0YDQsNCx0L7RgtGLIFZQTiDQvtCx0L3QvtCy0LjRgtC1INC/0YDQuNC70L7QttC10L3QuNC1IEhhcHAg0LTQviDQsNC60YLRg9Cw0LvRjNC90L7QuSDQstC10YDRgdC40LguCiAK0J/RgNC4INCy0L7Qt9C90LjQutC90L7QstC10L3QuNC4INC/0YDQvtCx0LvQtdC8IOKAlCDQv9C10YDQtdC30LDQv9GD0YHRgtC40YLQtSDQv9GA0LjQu9C+0LbQtdC90LjQtSDQuCDQstGL0LHQtdGA0LjRgtC1INC00YDRg9Cz0L7QuSDRgdC10YDQstC10YAu
 #support-url: https://wa.me/79280210040
 #profile-web-page-url: https://wa.me/79280210040
 #sort-order: ping
