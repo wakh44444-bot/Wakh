@@ -7,6 +7,7 @@
 #support-url: https://wa.me/79280210040
 #profile-web-page-url: https://wa.me/79280210040
 #sort-order: ping
+#ping-result: time
 #subscription-pin: 1
 #subscriptions-collapse: 0
 #hide-settings: 1
