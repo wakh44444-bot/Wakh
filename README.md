@@ -31,7 +31,15 @@ vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?flow=xtls-rprx-vi
 
 
 
-
+vless://5be7fb02-b6a5-450f-b041-3243b98e8420@lyra.yokkastars.com:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
+vless://279a8eef-898f-44ef-b4f5-67a494f4b542@alnilam.yokkastars.com:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%231?serverDescription=Kzc5MjgwMjEwMDQw
+vless://2f801c25-54d1-4207-9571-edc994aceef0@sagitta.yokkastars.com:40443?security=reality&encryption=none&pbk=7wpK0YOi5ZGUvMeVYKIasDrP2ObR-7r-NcL6oKwDV1w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=fc79b0c6bddc2793#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232?serverDescription=Kzc5MjgwMjEwMDQw
+vless://3c4591f4-769c-4408-9e12-c04fc4edf06c@hamal.yokkastars.com:40443?security=reality&encryption=none&pbk=uXB85uKJnbmWaeA6H5BW1A3w-1oU1lRb_xSec4CqjhU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b02e1fbf1f34ff2#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
+vless://b67dd117-494b-4ad6-8157-6f85c5cce5ff@sirius.yokkastars.com:40443?security=reality&encryption=none&pbk=N5GTPafkvWsgFh3OGCACKp6osKG2_I8oQd5YxvI8ykU&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=d18a#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
+vless://5be7fb02-b6a5-450f-b041-3243b98e8420@lyra.yokkastars.com:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90?serverDescription=Kzc5MjgwMjEwMDQw
+vless://4023b0ba-3076-4889-ae9c-409fa8cacefe@phoenix.yokkastars.com:40443?security=reality&encryption=none&pbk=u8s-86GoFaSHpU6gDA5eqCORufuJ0Zm1RV2I9g3iR1c&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=7f5f#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%F0%9F%87%AE%F0%9F%87%B3%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
+vless://40c0c03f-9c85-43f4-a811-50f7271942fa@castor.yokkastars.com:40443?security=reality&encryption=none&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=f7b2#%F0%9F%87%B3%F0%9F%87%B4%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F?serverDescription=Kzc5MjgwMjEwMDQw
 
 
 
