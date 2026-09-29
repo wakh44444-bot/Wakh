@@ -18,8 +18,19 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
 
+
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=chrome&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇫🇮 Турбо-Заглушка ⚡
+
+
+
+
+
+
 vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@anglechanin.karp1pdd.life:443?encryption=none&security=tls&sni=anglechanin.karp1pdd.life&alpn=http%2F1.1&fp=edge&type=ws&host=anglechanin.karp1pdd.life&path=%2Fwsgate#🇵🇱 Авто-Заглушка 🔝
 vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@46.243.234.157:9449?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cascadilia.karp1pdd.life&fp=firefox&pbk=hq68T48cjMlyOWDafdbGkXsWcD7pXq_QkyskxXUMQG8&sid=05e508bff5648fd3&type=tcp&headerType=none#🇳🇱 Авто-Заглушка 🔝
+
+
+
 
 
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@angldril.pumpkinpie.study:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=angldril.pumpkinpie.study&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#🇬🇧 Англия #1 🚀
@@ -30,6 +41,9 @@ vless://c20751de-06c3-4044-b6a4-eebc9b040d92@lit.lizard.surf:443?flow=xtls-rprx-
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swebz.loozerp.wiki&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=%2F&type=tcp&headerType=none#🇸🇪 Швеция #6 🚀
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@hapatronik.vodniki.monster:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hapatronik.vodniki.monster&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#🇲🇩 Молдова #7 🚀
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@aldril.loknietotop.digital:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=aldril.loknietotop.digital&fp=firefox&pbk=FHz8UphJsAywB1sIO6G1zEsSyxhkWifNN364wJE6bQU&sid=79b420e34e67b356&spx=%2F&type=tcp&headerType=none#🇦🇱 (YouTube без рекламы) 🚀
+
+
+
 
 
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@188.72.111.36:443?encryption=none&security=tls&sni=yoyo.pumpkinpie.study&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=packet-up&host=yoyo.pumpkinpie.study&path=%2Fapi%2Faccount%2Fprofile%2F&extra=%7B%22path%22%3A%22%2Fapi%2Faccount%2Fprofile%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%2218-34%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22seqKey%22%3A%22device_id%22%2C%22sessionKey%22%3A%22user_session%22%2C%22xPaddingKey%22%3A%22_a%22%2C%22noGRPCHeader%22%3Atrue%2C%22seqPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22user_session%22%2C%22uplinkDataKey%22%3A%22X-Profile-Data%22%2C%22xPaddingBytes%22%3A%22105-1120%22%2C%22xPaddingHeader%22%3A%22X-Profile-Token%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkChunkSize%22%3A0.0%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22HEAD%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxEachPostBytes%22%3A4096.0%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A30.0%7D#🇷🇺 Антизаглушка ТЕСТ 1
@@ -47,6 +61,8 @@ vless://9e4d44c2-f237-4d6b-bb09-77b839fe7ea4@anglechanin.karp1pdd.life:443?encry
 vless://a25d60cc-72b1-4379-b656-5124db5c9f1a@185.141.227.190:7443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cesadilya.karp1pdd.life&fp=chrome&pbk=JGzcySOlry32qM4bdf-WiIiOJEsrDNYs_cbuH-zuRnI&sid=013f62ba58a63a61&type=tcp&headerType=none#🇳🇱 Антизаглушка ТЕСТ 13
 vless://a25d60cc-72b1-4379-b656-5124db5c9f1a@vkorp.karp1pdd.life:443?encryption=none&security=tls&sni=vkorp.karp1pdd.life&alpn=h2%2C%20http%2F1.1&fp=qq&type=xhttp&mode=packet-up&host=vkorp.karp1pdd.life&path=%2Fmedia%2Ffeed%2Fpreview%2F&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2248-96%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-1000%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22seqKey%22%3A%22segment%22%2C%22sessionKey%22%3A%22sess_id%22%2C%22xPaddingKey%22%3A%22_t%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22sess_id%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22xPaddingBytes%22%3A%221-32%22%2C%22xPaddingHeader%22%3A%22X-Media-Token%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDLength%22%3A%225-8%22%2C%22uplinkChunkSize%22%3A0.0%2C%22sessionPlacement%22%3A%22query%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22query%22%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22sessionIDPlacement%22%3A%22query%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22serverMaxHeaderBytes%22%3A50000.0%7D#🇦🇹 Антизаглушка ТЕСТ 14
 hysteria2://Z2Gt0fBq74MrlMmV35XkmRjiu_evPDyD@udp23.gazette.help:2053?security=tls&fm=%7B%7D&sni=udp23.gazette.help#🇷🇺 Антизаглушка ТЕСТ 15
+
+
 
 
 
