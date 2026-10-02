@@ -21,7 +21,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=chrome&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇫🇮 Турбо-Заглушка 1
 
-
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@mori-md.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%A9%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0
 
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%F0%9F%87%A9%F0%9F%87%AA%20%D0%90%D0%B2%D1%82%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%94%9D
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%94%9D
