@@ -20,15 +20,12 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@194.226.112.118.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=194.226.112.118.sslip.io&fp=firefox&pbk=L2UzY5xsyfkl4MB575jk12QFQZYmaIW0BqRuxDTteis&sid=a8ae8934d909b3b0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@83.166.244.231.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=83.166.244.231.sslip.io&fp=firefox&pbk=b_Tz7poeEoOMrhzLSgWzHlT5drx9TWHVuy1DpRhAKTc&sid=317af011f4efab41&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@92.242.61.99.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=92.242.61.99.sslip.io&fp=firefox&pbk=Lrda7_Ew0YS-Ac27x3IfKJfCymW2TDWCj_2Kg5BtemQ&sid=a120332ce29c71c0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@185.211.101.222.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=185.211.101.222.sslip.io&fp=firefox&pbk=Cg2YWmZl8054Ou5T0DxFdJQNbfXSM2Z_3k4TRX262nw&sid=f475cceed22901a0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@2.27.44.91.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=2.27.44.91.sslip.io&fp=firefox&pbk=nKC4RnJXQdvGNts2DF9Yr5p8ja0jHWYxvM6T-sI-sSA&sid=f5ef4f4d4cba0a86&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@ch1.oshost.network:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ch1.oshost.network&fp=firefox&pbk=b1BnLq44zu_t3K9yEwN9QAIMRdJQxgWINdg6s9Q5v38&sid=f55f421274a36f31&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
-
-
-
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@194.226.112.118.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=194.226.112.118.sslip.io&fp=firefox&pbk=L2UzY5xsyfkl4MB575jk12QFQZYmaIW0BqRuxDTteis&sid=a8ae8934d909b3b0&type=tcp&headerType=none#🇳🇱 Основной 🚀 
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@83.166.244.231.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=83.166.244.231.sslip.io&fp=firefox&pbk=b_Tz7poeEoOMrhzLSgWzHlT5drx9TWHVuy1DpRhAKTc&sid=317af011f4efab41&type=tcp&headerType=none#🇳🇱 Запасной ⚡
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@92.242.61.99.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=92.242.61.99.sslip.io&fp=firefox&pbk=Lrda7_Ew0YS-Ac27x3IfKJfCymW2TDWCj_2Kg5BtemQ&sid=a120332ce29c71c0&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@185.211.101.222.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=185.211.101.222.sslip.io&fp=firefox&pbk=Cg2YWmZl8054Ou5T0DxFdJQNbfXSM2Z_3k4TRX262nw&sid=f475cceed22901a0&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@2.27.44.91.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=2.27.44.91.sslip.io&fp=firefox&pbk=nKC4RnJXQdvGNts2DF9Yr5p8ja0jHWYxvM6T-sI-sSA&sid=f5ef4f4d4cba0a86&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@ch1.oshost.network:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ch1.oshost.network&fp=firefox&pbk=b1BnLq44zu_t3K9yEwN9QAIMRdJQxgWINdg6s9Q5v38&sid=f55f421274a36f31&type=tcp&headerType=none#🇳🇱 Резерв 🔗
 vless://5fb99a41-bd64-539c-916d-03ceaffe3ce7@fi.illusion-vpn.ru:2053?mode=auto&path=%2F&security=reality&encryption=none&pbk=uWVpUSqyvN8iFVPuSh-uCvr6LYVecpZ2hjBjklDUa0U&fp=firefox&spx=%2F&type=xhttp&sni=fi.illusion-vpn.ru&sid=658955d7e642c616#🇫🇮 Финляндия 1
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@138.124.15.231:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fn-2.ardesnode.ru&sid=9ea74b83f4993ca9#🇫🇮 Финляндия 2
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@fn-2.ardesnode.ru:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fn-2.ardesnode.ru&sid=9ea74b83f4993ca9#🇫🇮 Финляндия 3
@@ -73,16 +70,6 @@ vless://408c51e8-9246-483d-ba73-34ab4e202eb9@polandsixsebenrkn010.qcloud.surf:21
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@polandsixsebenrkn010.qcloud.surf:21384?alpn=h3&sni=polandsixsebenrkn010.qcloud.surf#🇵🇱 Польша 24
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@polandsixsebenrkn010.qcloud.surf:21386?mode=packet-up&path=%2Fapi%2F21386%2Fdownload%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22path%22%3A%22%2Fapi%2F21386%2Fdownload%2F%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22128%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPadding0bfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkDataPlacement%22%3A%22header%22%7D&host=polandsixsebenrkn010.qcloud.surf&fp=edge&type=xhttp&sni=polandsixsebenrkn010.qcloud.surf#🇵🇱 Польша 25
 
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ne5.rexten.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ne5.rexten.cc&type=tcp#🇳🇱  Нидерланды
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@pl.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=pl.lenvex.cc&type=tcp#🇵🇱 Польша
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@de.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=de.lenvex.cc&type=tcp#🇩🇪  Германия
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@lv.dexlen.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.dexlen.cc&type=tcp#🇱🇻  Латвия  [Gemini ✨]
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@fl3.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=fl3.lenvex.cc&type=tcp#🇫🇮  Финляндия
-vless://9e6fd03f-083d-02f0-af92-0c8e24099dc4@sw.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪  Швеция  [Gemini ✨]
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ee.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ee.lenvex.cc&type=tcp#🇪🇪  Эстония
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@usa.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=usa.lenvex.cc&type=tcp#🇺🇸  Америка
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@tr2.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=tr2.lenvex.cc&type=tcp#🇹🇷  Турция
-
 
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@92.242.61.99.sslip.io:443?security=reality&encryption=none&pbk=Lrda7_Ew0YS-Ac27x3IfKJfCymW2TDWCj_2Kg5BtemQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=92.242.61.99.sslip.io&sid=a120332ce29c71c0#🇩🇪 Германия 26
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@2.27.44.91.sslip.io:443?security=reality&encryption=none&pbk=nKC4RnJXQdvGNts2DF9Yr5p8ja0jHWYxvM6T-sI-sSA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2.27.44.91.sslip.io&sid=f5ef4f4d4cba0a86#🇩🇪 Германия 27
@@ -93,37 +80,34 @@ vless://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20268?securi
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20270?alpn=h3&sni=qcloudge1.exitvpn.shop#🇩🇪 Германия 32
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20275?mode=packet-up&path=%2Fapi%2F20275%2Fdownload%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22path%22%3A%22%2Fapi%2F20275%2Fdownload%2F%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22128%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPadding0bfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkDataPlacement%22%3A%22header%22%7D&host=qcloudge1.exitvpn.shop&fp=edge&type=xhttp&sni=qcloudge1.exitvpn.shop#🇩🇪 Германия 33
 
-
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@it1.oshost.network:443?security=reality&encryption=none&pbk=uE-LPPvwGagJiya-X2K8WAIlGGlAaQUtvfsbNags6Ao&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=it1.oshost.network&sid=76c55e05c757eec0#🇮🇹 Италия 34
 
 
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@ch1.oshost.network:443?security=reality&encryption=none&pbk=b1BnLq44zu_t3K9yEwN9QAIMRdJQxgWINdg6s9Q5v38&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch1.oshost.network&sid=f55f421274a36f31#🇨🇿 Чехия 35
 
 
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20268?security=reality&encryption=none&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=0c774b50#🇷🇺 Автовыбор 36
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20268?security=reality&encryption=none&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=0c774b50#🇮🇹 Италия 36
 
 
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21221?security=reality&encryption=none&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=c430045c#🇸🇪 Швеция 37
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21223?alpn=h3&sni=sweedenqfds777.qcloud.surf#🇸🇪 Швеция 38
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21225?mode=packet-up&path=%2Fapi%2F21225%2Fdownload%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22path%22%3A%22%2Fapi%2F21225%2Fdownload%2F%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22128%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPadding0bfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkDataPlacement%22%3A%22header%22%7D&host=sweedenqfds777.qcloud.surf&fp=edge&type=xhttp&sni=sweedenqfds777.qcloud.surf#🇸🇪 Швеция 39
 
-
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@alb1337.zaebalsanoproxyklinus.lol:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#🇦🇱 Албания 40
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@alb1337.zaebalsanoproxyklinus.lol:28152?alpn=h3&sni=alb1337.zaebalsanoproxyklinus.lol#🇦🇱 Албания 41
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@alb1337.zaebalsanoproxyklinus.lol:9378?mode=packet-up&path=%2Fapi%2F9378%2Fdownload%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22path%22%3A%22%2Fapi%2F9378%2Fdownload%2F%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22uplinkDataKey%22%3A%22128%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPadding0bfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22uplinkDataPlacement%22%3A%22header%22%7D&host=alb1337.zaebalsanoproxyklinus.lol&fp=edge&type=xhttp&sni=alb1337.zaebalsanoproxyklinus.lol#🇦🇱 Албания 42
 
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@alb1337.zaebalsanoproxyklinus.lol:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#🇩🇪 YouTube без рекламы 43
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ne5.rexten.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ne5.rexten.cc&type=tcp#🇳🇱  Нидерланды 44
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@pl.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=pl.lenvex.cc&type=tcp#🇵🇱  Польша 45
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@de.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=de.lenvex.cc&type=tcp#🇩🇪  Германия 46
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@lv.dexlen.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.dexlen.cc&type=tcp#🇱🇻  Латвия  [Gemini 🤖] 47
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@fl3.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=fl3.lenvex.cc&type=tcp#🇫🇮  Финляндия 48
+vless://9e6fd03f-083d-02f0-af92-0c8e24099dc4@sw.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪 Швеция  [Gemini 🤖] 49
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ee.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ee.lenvex.cc&type=tcp#🇪🇪  Эстония 50
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@usa.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=usa.lenvex.cc&type=tcp#🇺🇸  Америка 50
+vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@tr2.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=tr2.lenvex.cc&type=tcp#🇹🇷  Турция 51
 
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@alb1337.zaebalsanoproxyklinus.lol:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#🇷🇺YouTube без рекламы 43
-
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ne5.rexten.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ne5.rexten.cc&type=tcp#🇳🇱  Нидерланды
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@pl.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=pl.lenvex.cc&type=tcp#🇵🇱 Польша
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@de.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=de.lenvex.cc&type=tcp#🇩🇪  Германия
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@lv.dexlen.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=lv.dexlen.cc&type=tcp#🇱🇻  Латвия  [Gemini ✨]
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@fl3.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=fl3.lenvex.cc&type=tcp#🇫🇮  Финляндия
-vless://9e6fd03f-083d-02f0-af92-0c8e24099dc4@sw.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=sw.lenvex.cc&type=tcp#🇸🇪  Швеция  [Gemini ✨]
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@ee.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ee.lenvex.cc&type=tcp#🇪🇪  Эстония
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@usa.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=usa.lenvex.cc&type=tcp#🇺🇸  Америка
-vless://9e6fd03f-083d-4968-af92-0c8e24099dc4@tr2.lenvex.cc:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=tr2.lenvex.cc&type=tcp#🇹🇷  Турция
 
 
 vless://7bb28df1-a972-42ce-b573-dc0d76b1e612@194.55.239.183:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=hellox-1.locallynet.org&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#🇫🇷 Антизаглушка ⁽ᵗᵉˢᵗ ⁿᵉʷ⁾ 1
