@@ -24,15 +24,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og0JDQvdGC0Lgt0JfQsNCz0LvRg9GI0LrQsCDimqHv
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og0JDQvdGC0Lgt0JfQsNCz0LvRg9GI0LrQsCDimqHvuI8gMyIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0xLTg2Ni5taXJyYS5ub3ciLCJwb3J0Ijo0NDMsImlkIjoiNzAxODdlOGQtMjg4NS00ZjcxLTg2ZWEtYTBlNzJiYmVhNjJlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtODY2Lm1pcnJhLm5vdyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTg2Ni5taXJyYS5ub3ciLCJmcCI6ImZpcmVmb3giLCJhbHBuIjoiaDIiLCJzZXJ2ZXJEZXNjcmlwdGlvbiI6IiJ9
 
 
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@de22.internet95.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hBQJ1PIjw5vK7wQ5f1nr4_u6wlKCuWTvAmq-nd8TIiE&security=reality&sid=033cfa897b28dffc&sni=de22.internet95.org&type=tcp#🇩🇪Германия⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@finod1.internet95.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=job9J10sXueFM1KNO1OZt_74t_mQLq28r_x-eeigRRA&security=reality&sid=e43c1b9fc3b3e8d9&sni=finod1.internet95.org&type=tcp#🇳🇱Нидерланды⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@finod1.internet95.org:4443?encryption=none&fp=qq&pbk=job9J10sXueFM1KNO1OZt_74t_mQLq28r_x-eeigRRA&security=reality&sid=e43c1b9fc3b3e8d9&sni=finod1.internet95.org&type=xhttp#🇫🇷Франция⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@denod3.internet95.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rWzGQK_-8q_SJxRTHNq8T7G3ZJZIsMM25WAyy2YdHzM&security=reality&sid=2ea08980b873786c&sni=denod3.internet95.org&type=tcp#🇬🇧Англия⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@denod3.internet95.org:4443?encryption=none&fp=qq&pbk=rWzGQK_-8q_SJxRTHNq8T7G3ZJZIsMM25WAyy2YdHzM&security=reality&sid=2ea08980b873786c&sni=denod3.internet95.org&type=xhttp#🇺🇸США⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@nlnod1.internet95.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vPVTPoT2zuoGcd3_PBZrUSrt2liz2zku_iAmpborbSs&security=reality&sid=71de2111b9768a13&sni=nlnod1.internet95.org&type=tcp#🇵🇱Польша⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@nlnod1.internet95.org:4443?encryption=none&fp=qq&pbk=vPVTPoT2zuoGcd3_PBZrUSrt2liz2zku_iAmpborbSs&security=reality&sid=71de2111b9768a13&sni=nlnod1.internet95.org&type=xhttp#🇫🇮Финляндия⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@plnod4.internet95.org:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OgXPbJM4khbEEjuhDC6jVLrjEVDarj2V-iTvQ-VvpGI&security=reality&sid=8c0c60f04a5333c1&sni=plnod4.internet95.org&type=tcp#🇸🇪Швеция⭐
-vless://b82353a8-8d04-44dc-ac74-d58e306beffd@plnod4.internet95.org:4443?encryption=none&fp=qq&pbk=OgXPbJM4khbEEjuhDC6jVLrjEVDarj2V-iTvQ-VvpGI&security=reality&sid=8c0c60f04a5333c1&sni=plnod4.internet95.org&type=xhttp#🇪🇪Эстония⭐
+
 
 
 
