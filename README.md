@@ -24,28 +24,16 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@pl.syserv1.net:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&sid=99fe1ec015fde70c&fp=firefox#🇦🇷 Быстрый 1
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@66.90.106.210:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=dash.syn2.online&pbk=2okfB1oMV1oQX1QZLbd_gQx4ZGtIDkP8KkELglZIBys&sid=accded3297&fp=edge#🇳🇱 Быстрый 2
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@50.7.42.43:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdnportu.uk&pbk=9RfJDCFKCykiqgKvUggHX9CtzaOIADK-cZcSKdo1ITw&sid=8fbee7b12cdb537a&fp=edge#🇫🇮 Быстрый 3
-vless://6cac0c9b-5adc-49bc-8375-eac818f8103e@crm.hourtley.com:443?encryption=none&type=ws&security=tls&sni=crm.hourtley.com&path=/stream/video/ffmpeg#🇫🇮 Быстрый 4
-vless://6cac0c9b-5adc-49bc-8375-eac818f8103e@crm.hourtley.com:443?encryption=none&type=ws&security=tls&sni=crm.hourtley.com&path=/content/cdn1499/socket#🇩🇪 Быстрый 5
-vless://6cac0c9b-5adc-49bc-8375-eac818f8103e@cdn.dash.gearmonster.org:443?encryption=none&type=ws&security=tls&sni=cdn.dash.gearmonster.org&path=/edge/node8/push#🇨🇦 Быстрый 6
-vless://6cac0c9b-5adc-49bc-8375-eac818f8103e@content-iv1k.login.opendns.stream:443?encryption=none&type=ws&security=tls&sni=content-iv1k.login.opendns.stream&path=/sock/relay/007f9c12e265#🇮🇹 Быстрый 7
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.56.18.191:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=last.syoknew.work&pbk=P5RCcSo4SB1D5z7BnpIt9OUyjG650oX7DOg3_uEDqy4&sid=0913aec861b849e9&fp=edge#🇨🇿 Быстрый 8
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.76.249.41:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=water.syoknew.xyz&pbk=auGaR5FxMklMePIXXViuYINDpSXt5nsXyRlr_M87tCY&sid=4a1ff7cdd96f6b77&fp=edge#🇬🇧 Быстрый 9
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@191.217.216.249:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=good.sywl5.art&pbk=GIe8sesUIyAz8Kq7t9B7tcPgrhYcRGPuGas9SRqMLTI&sid=1c52d1ee7a01fee0&fp=edge#🇪🇺 Быстрый 10
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.77.28.241:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=home.syoknew.biz&pbk=GIe8sesUIyAz8Kq7t9B7tcPgrhYcRGPuGas9SRqMLTI&sid=1c52d1ee7a01fee0&fp=edge#🇷🇺 Быстрый 11
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@87.121.89.165:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hosting.sywl5.club&pbk=eHdHpA-hKq3aXoVTW_ysflcYKmNbuCSExN167jKtnAY&sid=fa6ca0ce38e58033&fp=edge#🇪🇪 Быстрый 12
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@page.syoknew.vip:443?encryption=none&type=grpc&security=reality&sni=page.syoknew.vip&pbk=t0w-cQut4ZAkb_I2iE-uDX6__07aX5V_lf52kqUjR3A&sid=340e5b48c457830f&fp=chrome&serviceName=grpc#🇫🇷 Быстрый 13
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@site.syn1.cc:443?encryption=none&type=xhttp&security=reality&sni=site.syn1.cc&pbk=gh_aLRWIyEW7bhL61Qhshq1WG0KvnBW4ePNQrfY57BM&sid=6280d5ee&fp=firefox&path=/api/v1/tiles&mode=packet-up#🇸🇪 Быстрый 14
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@easy.syn2.click:443?encryption=none&type=xhttp&security=reality&sni=easy.syn2.click&pbk=aCsassncP4QlHboSb_r92VtrIrbe1p2IkqttPAwem3g&sid=6280d5ee&fp=firefox&path=/api/v1/tiles&mode=packet-up#🇦🇷 Быстрый 15
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.77.154.180:443?encryption=none&type=grpc&security=reality&sni=local.sywl5.health&pbk=BUmDIJm-hDTetLJoCGG3lhvFrccV2sp2uf4EpJk28CE&sid=6c3fc5d190b4d009&fp=qq&serviceName=grpc#🇳🇱 Быстрый 16
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.77.29.159:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=wide.syn4.space&pbk=81FqKzE5fpJDkx4gGagSMBqzSMI7wv9rCyG0QL7bYUE&sid=e080f71666718adb&fp=edge#🇫🇮 Быстрый 17
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@page.syoknew.lol:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=page.syoknew.lol&pbk=wxBAhNgGKmjVGUOAZZidsASnO8KswK2M5Zf_-r5GviU&sid=22e0ad446650ba37&fp=chrome#🇫🇮 Быстрый 18
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@base.syoknew.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=base.syoknew.online&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&sid=a7df9e0cde3e1d79&fp=chrome#🇩🇪 Быстрый 19
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@5.39.202.66:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=storage.yandex.net&pbk=MJTR5hWXg_OJ472i09Dk8MLct_MbQfPqYwtP2k4viEA&sid=3b7d0a91ce46f28a&fp=edge#🇨🇦 Быстрый 20
-vless://ab1c1170-53cb-4bfc-9d72-c2396dcf8d15@31.77.29.159:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=wide.syn4.space&pbk=Fs_fINKsuijMmKU6DUWx7N6v59lVgX9dYkfwCJQJh2Y&sid=49719a76&fp=firefox#🇮🇹 Быстрый 21
-
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇷 Быстрый 1
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇷🇺 Быстрый 2
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇸🇪 Быстрый 3
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇪🇺 Быстрый 4
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇨🇦 Быстрый 5
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇬🇧 Быстрый 6
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇩🇪 Быстрый 7
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇮🇹 Быстрый 8
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇫🇮 Быстрый 9
+vless://cce2192b-64ea-47cc-ad3f-2c2f43a3c7f4@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Быстрый 10
 
 
 vless://7bb28df1-a972-42ce-b573-dc0d76b1e612@194.55.239.183:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=bench-two.hysteria.ltd&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#🇸🇪 Антизаглушка ⁽ᵗᵉˢᵗ ⁿᵉʷ⁾ 1
