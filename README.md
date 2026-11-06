@@ -22,16 +22,13 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇷🇺 Быстрый | 🔝 1
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇪🇪 Быстрый | 🔝 2
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇳🇱 Быстрый | 🔝 3
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇫🇮 Быстрый | 🔝 4
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇫🇮 Быстрый | 🔝 5
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇬🇧 Быстрый | 🔝 6
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇨🇦 Быстрый | 🔝 7
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇸🇪 Быстрый | 🔝 8
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇨🇿 Быстрый | 🔝 9
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#🇦🇷 Быстрый | 🔝 10
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Основные 1
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Основные 2
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Основные 3
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Основные 4
+vless://49d0632e-2f16-4d26-9724-89a4146cac29@static.cdnnow.xyz:27017?path=%2Fassets%2Fnetwork-reach%2Fstreams%2Fstream-0x8%2Fsegment717-ii-88&security=tls&alpn=h3%2Ch2&encryption=mlkem768x25519plus.native.0rtt.NqviulcTu3ShNfsOQiYQFU5cE_5Mj0oTvKcHp8gBon0&host=static.cdnnow.xyz&fp=firefox&type=ws&flow=xtls-rprx-vision&sni=static.cdnnow.xyz#🇳🇱 Основные 5
+vless://49d0632e-2f16-4d26-9724-89a4146cac29@us.balancer-video.proxy.cdnnow.xyz:443?mode=multi&security=reality&alpn=h3%2Ch2&encryption=mlkem768x25519plus.native.0rtt.CBI5Pvhll6gQptzV-pDn1ZNOQ264u-upcmt4N2wPBSs&pbk=Q1F9vCGA5iJzAjpcRloCw9T8w9gvPr7RXVEfUhUx9gE&fp=firefox&spx=%2F&type=grpc&serviceName=subNetvork.NodeUpdater.V2&sni=dash.cloudflare.com&sid=32fc1b463b8c007f#🇳🇱 Основные 6
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@dominic-torento.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dominic-torento.failspace.top&fp=safari&alpn=h2#🇳🇱 Основные 7
 
 
 
