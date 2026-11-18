@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=88; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=89; download=0; total=0; expire=999999999999999
 #profile-title: ISM 444 
 #profile-update-interval: 1
 #subscription-update-interval: 2
@@ -19,12 +19,10 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
 
 
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@fin.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fin.xvanta.online&fp=firefox&pbk=t9P5O3qtmepuC7_xEJ4bRMOPMHDQSbFai3TiOsQXnhY&sid=8b8d979d16d9dd3b&type=tcp&headerType=none#🇷🇺 Турбо-Заглушка ⚡ 1
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@vena.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vena.xvanta.online&fp=firefox&pbk=4vN6lpdXLv0wGwYmcrC58O0updFdEBGtrsat0XVRSiY&sid=7330f22a41fb280a&type=tcp&headerType=none#🇷🇺 Турбо-Заглушка ⚡ 2
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@ionos.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ionos.xvanta.online&fp=firefox&pbk=H5OOR_5KRjgbKmvmr3JRA1POMXM8IbP15u59M56pNS4&sid=cf2aca5cb3353afc&type=tcp&headerType=none#🇩🇪 Турбо-Заглушка ⚡ 3
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@fin.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fin.xvanta.online&fp=firefox&pbk=t9P5O3qtmepuC7_xEJ4bRMOPMHDQSbFai3TiOsQXnhY&sid=8b8d979d16d9dd3b&type=tcp&headerType=none#🇩🇪 Турбо-Заглушка ⚡ 4
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@vena.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vena.xvanta.online&fp=firefox&pbk=4vN6lpdXLv0wGwYmcrC58O0updFdEBGtrsat0XVRSiY&sid=7330f22a41fb280a&type=tcp&headerType=none#🇳🇱 Турбо-Заглушка ⚡ 5
-vless://3a08f246-48ef-403d-973e-3a590eb63a8f@ionos.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ionos.xvanta.online&fp=firefox&pbk=H5OOR_5KRjgbKmvmr3JRA1POMXM8IbP15u59M56pNS4&sid=cf2aca5cb3353afc&type=tcp&headerType=none#🇳🇱 Турбо-Заглушка ⚡ 6
+vless://3a08f246-48ef-403d-973e-3a590eb63a8f@nl1.vanta-vpn.fun:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl1.vanta-vpn.fun&fp=firefox&pbk=V_7lvEmAYz16yddYVgwkReznO4ka07LzhGe0nYIWeyE&sid=ad08ac69606a48d9&type=tcp&headerType=none#🇫🇲 Турбо-Заглушка ⚡ 1
+vless://3a08f246-48ef-403d-973e-3a590eb63a8f@ionos.xvanta.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ionos.xvanta.online&fp=firefox&pbk=H5OOR_5KRjgbKmvmr3JRA1POMXM8IbP15u59M56pNS4&sid=cf2aca5cb3353afc&type=tcp&headerType=none#🇫🇲 Турбо-Заглушка ⚡ 2
+
+
 
 vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@178.237.199.44:15443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=cb5cf18580eb9de6#🇳🇱 Основные 🔝 | 1
 vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@178.237.199.44:15443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=cb5cf18580eb9de6#🇳🇱 Основные 🔝 | 2
